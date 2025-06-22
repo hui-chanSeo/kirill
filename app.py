@@ -23,7 +23,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.image("sing.jpg", caption="🎤 노래 부르기", use_container_width=True)
-    st.write("최신 발라드곡을 노래방에서 부르는 것을 좋아합니다. 코로나 팬데믹 발생 전까지는 버스킹 활동도 하였습니다.")
+    st.write("최신 발라드곡을 노래방에서 부르는 것을 좋아합니다. 코로나 팬데믹 전까지는 버스킹 활동도 하였습니다.")
 
 with col2:
     st.image("book.jpg", caption="📚 책 읽기", use_container_width=True)
