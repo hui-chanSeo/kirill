@@ -5,7 +5,6 @@ st.set_page_config(page_title="자기소개", layout="centered")
 st.title("👤 자기소개")
 
 st.write("안녕하세요. 저는 24609502 서희찬 대학원생입니다.")
-
 st.write("💼 직업: 육군훈련소 군무원")
 st.write("🎓 학력: 전남대학교 전기공학과 졸업")
 st.write("📌 관심분야: 시설안전, 디지털 전환")
@@ -28,6 +27,7 @@ with col1:
 with col2:
     st.image("book.jpg", caption="📚 책 읽기", use_container_width=True)
 
+# 아래부터 앞으로의 꿈 + 영상
 st.subheader("🌱 앞으로의 꿈")
 st.write("""
 저는 앞으로도 건양대학교 재난안전소방학과에 계속 다니며 박사과정까지 밟는 것을 목표로 하고 있습니다.  
