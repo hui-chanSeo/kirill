@@ -41,3 +41,14 @@ st.write("""
 st.subheader("🎥 영상 소개")
 st.video("https://www.youtube.com/watch?v=46mebsp1Q4M")
 st.video("https://www.youtube.com/watch?v=uwsNiokY8rc")
+
+st.markdown("---")
+
+st.subheader("📌 마무리하며")
+st.write("""
+지금까지 저의 자기소개를 봐주셔서 감사합니다.  
+앞으로도 전문성과 신앙심, 그리고 시대 흐름에 맞는 기술 역량을 바탕으로  
+더 나은 사회를 만드는 데 기여하는 사람이 되겠습니다.
+
+진심을 담아 노력하며 나아가겠습니다.
+""")
