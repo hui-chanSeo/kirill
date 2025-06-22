@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="자기소개", layout="centered")
 
-st.title("👤 자기소개")
+st.title("👨‍🎓 자기소개")
 
 st.write("안녕하세요. 저는 24609502 서희찬 대학원생입니다.")
 st.write("💼 직업: 육군훈련소 군무원")
