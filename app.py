@@ -23,15 +23,7 @@ st.subheader("🎨 취미")
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image(
-        "https://upload.wikimedia.org/wikipedia/commons/4/4f/Karaoke_singing.jpg",
-        caption="🎤 노래 부르기",
-        use_container_width=True
-    )
+    st.image("sing.jpg", caption="🎤 노래 부르기", use_container_width=True)
 
 with col2:
-    st.image(
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Reading_book.jpg/640px-Reading_book.jpg",
-        caption="📚 책 읽기",
-        use_container_width=True
-    )
+    st.image("book.jpg", caption="📚 책 읽기", use_container_width=True)
