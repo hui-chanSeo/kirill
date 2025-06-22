@@ -40,4 +40,4 @@ st.write("""
 
 st.subheader("🎥 영상 소개")
 st.video("https://www.youtube.com/watch?v=46mebsp1Q4M")
-st.video("https://www.youtube.com/watch?v=4N2ygGH6b70")
+st.video("https://www.youtube.com/watch?v=uwsNiokY8rc")
