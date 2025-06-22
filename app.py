@@ -41,6 +41,7 @@ st.write("""
 """)
 
 st.subheader("🎥 영상 소개")
+st.write("다음은 제가 관심있게 본 유튜브 영상입니다.")
 st.video("https://www.youtube.com/watch?v=46mebsp1Q4M")
 st.video("https://www.youtube.com/watch?v=uwsNiokY8rc")
 
